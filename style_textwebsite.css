@@ -1,0 +1,16 @@
+.text_box {
+  background-image: linear-gradient(90deg, #01497c 0%, #2c7da0 50%);
+  box-sizing: content-box;
+  font-family: "Roboto";
+  color: #a9d6e5;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 10px;
+  padding: 20px;
+  width: 1000px;
+  -webkit-box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+  -moz-box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+  box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+}
