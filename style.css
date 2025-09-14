@@ -22,9 +22,8 @@
 }
 body {
   font-family: "Roboto";
-  background-image: url("https://raw.githubusercontent.com/rafal-zwiazek/transplantology/refs/heads/main/background-medical3.jpg");
-  /* background-color: rgba(10, 9, 8, 1); */
-  /* background-image: linear-gradient(90deg, #012a4a 0%, #01497c 100%); */
+background-color: rgba(10, 9, 8, 1);
+  background-image: linear-gradient(90deg, #012a4a 0%, #01497c 100%);
   padding: 0;
   margin: 0;
   height: 100vh; /* pełne okno */
@@ -116,3 +115,4 @@ footer {
   background-color: #012a4a;
   color: white;
 }
+
